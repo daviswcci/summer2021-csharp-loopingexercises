@@ -1,0 +1,16 @@
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\LoopExercises.exe
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\LoopExercises.deps.json
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\LoopExercises.runtimeconfig.json
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\LoopExercises.runtimeconfig.dev.json
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\LoopExercises.dll
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\ref\LoopExercises.dll
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\bin\Debug\net5.0\LoopExercises.pdb
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.csprojAssemblyReference.cache
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.GeneratedMSBuildEditorConfig.editorconfig
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.AssemblyInfoInputs.cache
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.AssemblyInfo.cs
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.csproj.CoreCompileInputs.cache
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.dll
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\ref\LoopExercises.dll
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.pdb
+S:\WCCI\2021 Summer Cohort\LoopsExample\summer2021-csharp-loopingexercises\LoopExercises\obj\Debug\net5.0\LoopExercises.genruntimeconfig.cache
